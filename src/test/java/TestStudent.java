@@ -12,6 +12,6 @@ public class TestStudent {
     @Test
     public void testAddAge2() {
         int result = stu.AddAge(20);
-        System.out.println(result);
+        System.out.println(result);//1212
     }
 }
